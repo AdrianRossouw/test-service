@@ -1,0 +1,17 @@
+{
+  "name": "demo-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "Nonsense": "^0.1.2",
+    "express": "^4.10.2",
+    "morgan": "^1.5.0",
+    "waif": "^1.0.2"
+  }
+}
